@@ -3,8 +3,8 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
-date = "2016-04-20T00:00:00"
+active = true
+date = "2018-01-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Custom Section"
@@ -15,6 +15,9 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have been a Graduate Student Instructor (Teaching Assistant) at Berkeley of:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+ - IEOR 240: Optimization Analytics (Fall 2016, 2017).
+ - IEOR 290: Modern Optimization for Statistical Learning (Spring 2017, now).
+
+I have just received from my department the 2018 Outstanding Graduate Student Instructor Award. 

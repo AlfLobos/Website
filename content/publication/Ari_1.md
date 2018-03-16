@@ -2,7 +2,7 @@
 title = "A DDDAMS-based planning and control framework for surveillance and crowd control via UAVs and UGVs"
 
 # Date first published.
-date = 2013
+date = "2013-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amirreza M. Khaleghi","Dong Xu", "Zhenrui Wang", "Mingyang Li", "Alfonso Lobos", "Jian Liu", "Young-JunSon"]

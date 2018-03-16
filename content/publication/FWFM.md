@@ -2,7 +2,7 @@
 title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
 
 # Date first published.
-date = 2017
+date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Junwei Pan", "Jian Xu", "Alfonso Lobos", "Wenliang Zhao", "Shengjun Pan", "Yu Sun", "Quan Lu"]
@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "(Accepted)  The Web Conference (WWW), 2018"
-publication_short = "*WWW*, 2018"
+publication_short = "*WWW*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."

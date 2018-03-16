@@ -2,7 +2,7 @@
 title = "Agent-based hardware-in-the-loop simulation for UAV/UGV surveillance and crowd control system"
 
 # Date first published.
-date = 2013
+date = "2013-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amirreza M. Khaleghi", "Dong Xu", "Alfonso Lobos", "Sara Minaeian", "Young-Jun Son", "Jian Liu"]
@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Winter Simulations Conference (WSC)"
-publication_short = "WSC, 2013"
+publication_short = "*WSC*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."

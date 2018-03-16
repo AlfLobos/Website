@@ -2,7 +2,7 @@
 title = "Intertemporal stochastic sawmill planning: Modeling and managerial insights"
 
 # Date first published.
-date = 2016
+date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alfonso Lobos", "Jorge Vera"]
