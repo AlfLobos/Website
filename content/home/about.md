@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Optimization",
+    "Machine Learning",
+    "First Order Methods",
+	"Online Advertising"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD student in IEOR (ongoing)"
+  institution = "University of California, Berkeley"
+  year = 2015
+
+[[education.courses]]
+  course = "Msc in IEOR"
+  institution = "Pontificia Universidad Catolica de Chile"
+  year = 2015
+
+[[education.courses]]
+  course = "Industrial engineering with a major in Mathematics "
+  institution = "Pontificia Universidad Catolica de Chile"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
+I'm a third year PhD student in Industrial Engineering and Operations Research (IEOR) at University of California, Berkeley under the supervision of Professor Paul Grigas. My research interests include Machine Learning and First Order Methods and lately I have been working in application in Online Advertisement.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Areas which I find of great interest is the application of First Order Methods to big data, primal-dual methods, Distributionally Robust Optimization, and WGANs.
