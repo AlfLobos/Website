@@ -1,12 +1,11 @@
 +++
-
-title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
+title = "Agent-based hardware-in-the-loop simulation for UAV/UGV surveillance and crowd control system"
 
 # Date first published.
-date = 2017
+date = 2013
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Paul Grigas", "Alfonso Lobos", "Zheng Wen", "Kuang-chih Lee"]
+authors = ["Amirreza M. Khaleghi", "Dong Xu", "Alfonso Lobos", "Sara Minaeian", "Young-Jun Son", "Jian Liu"]
 
 # Publication type.
 # Legend:
@@ -17,11 +16,11 @@ authors = ["Paul Grigas", "Alfonso Lobos", "Zheng Wen", "Kuang-chih Lee"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "AdKDD & TargetAd Workshop at *KDD* 2017"
-publication_short = "*AdKDD*, 2017"
+publication = "Winter Simulations Conference (WSC)"
+publication_short = "WSC, 2013"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -31,7 +30,7 @@ publication_short = "*AdKDD*, 2017"
 #image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1706.01614"
+url_pdf = "http://ieeexplore.ieee.org/document/6721530/?reload=true"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
