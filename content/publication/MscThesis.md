@@ -1,35 +1,36 @@
 +++
-title = "Lala"
-date = 2018-03-15T17:47:58-07:00
-draft = false
+title = "Intertemporal stochastic sawmill planning: Modeling and managerial insights"
+
+# Date first published.
+date = 2016
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Alfonso Lobos", "Jorge Vera"]
 
 # Publication type.
 # Legend:
 # 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
 # 5 = Book
-# 6 = Book section
-publication_types = ["0"]
+# 6 = Book chapter
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Computers and Industrial Engineering"
+publication_short = "Computers and Industrial Engineering"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+#abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -37,12 +38,8 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 projects = []
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0360835216300249"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,16 +53,16 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-# Does this page contain LaTeX math? (true/false)
-math = false
+# Does the content use math formatting?
+math = true
 
-# Does this page require source code highlighting? (true/false)
+# Does the content use source code highlighting?
 highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption 😄"
 
 +++

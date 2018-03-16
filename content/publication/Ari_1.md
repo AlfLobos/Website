@@ -1,11 +1,11 @@
 +++
-title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
+title = "A DDDAMS-based planning and control framework for surveillance and crowd control via UAVs and UGVs"
 
 # Date first published.
-date = 2017
+date = 2013
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Paul Grigas", "Alfonso Lobos", "Zheng Wen", "Kuang-chih Lee"]
+authors = ["Amirreza M. Khaleghi","Dong Xu", "Zhenrui Wang", "Mingyang Li", "Alfonso Lobos", "Jian Liu", "Young-JunSon"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Paul Grigas", "Alfonso Lobos", "Zheng Wen", "Kuang-chih Lee"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "AdKDD & TargetAd Workshop at *KDD* 2017"
-publication_short = "*AdKDD*, 2017"
+publication = "Expert Systems with Applications"
+publication_short = "Expert Systems with Applications"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."

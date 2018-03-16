@@ -2,7 +2,7 @@
 title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
 
 # Date first published.
-date = "2017"
+date = 2017
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Junwei Pan", "Jian Xu", "Alfonso Lobos", "Wenliang Zhao", "Shengjun Pan", "Yu Sun", "Quan Lu"]
@@ -39,11 +39,11 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://research.yahoo.com/publications/8940/field-weighted-factorization-machines-click-through-rate-prediction-display"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://research.yahoo.com/publications/8940/field-weighted-factorization-machines-click-through-rate-prediction-display"
 url_slides = ""
 url_video = ""
 url_poster = ""
