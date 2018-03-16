@@ -19,8 +19,8 @@ authors = ["Paul Grigas", "Alfonso Lobos", "Zheng Wen", "Kuang-chih Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AdKDD & TargetAd Workshop at KDD 2017"
-publication_short = "AdKDD'17"
+publication = "AdKDD & TargetAd Workshop at *KDD* 2017"
+publication_short = "*AdKDD*, 2017"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
