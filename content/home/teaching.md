@@ -20,4 +20,4 @@ I have been a Graduate Student Instructor (Teaching Assistant) at Berkeley of:
  - IEOR 240: Optimization Analytics (Fall 2016, 2017).
  - IEOR 290: Modern Optimization for Statistical Learning (Spring 2017, now).
 
-I have just received from my department the 2018 Outstanding Graduate Student Instructor Award. 
+I have just received the 2018 Outstanding Graduate Student Instructor Award. 
