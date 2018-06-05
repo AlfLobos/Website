@@ -4,7 +4,7 @@
 title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
 
 # Date first published.
-date = "2017-01-01"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alfonso Lobos",  "Paul Grigas", "Zheng Wen", "Kuang-chih Lee"]
