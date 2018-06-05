@@ -1,7 +1,7 @@
 
 +++
 
-title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
+title = "Optimal Bidding, Allocation and Budget Spending for a Demand Side Platform Under Many Auction Types"
 
 # Date first published.
 date = "2018-01-01"
