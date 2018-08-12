@@ -1,6 +1,6 @@
 +++
 
-title = "Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising"
+title = "Profit Maximization for Online Advertising Demand-Side Platform"
 
 # Date first published.
 date = "2017-01-01"
