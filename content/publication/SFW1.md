@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1906.03580.pdf"
+url_pdf = "https://arxiv.org/abs/1906.03580.pdf"
 url_preprint = ""
 url_code = "https://github.com/AlfLobos/Stochastic-In-Face-Frank-Wolfe-v1.0"
 url_dataset = ""
