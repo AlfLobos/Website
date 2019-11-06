@@ -1,11 +1,11 @@
 +++
-title = "Stochastic In-Face Frank-Wolfe Methods for Non-Convex Optimization and Sparse Neural Network Training"
+title = "Predicting different types of conversions with multi-task learning in online advertising"
 
 # Date first published.
-date = "2019-05-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Paul Grigas", "Alfonso Lobos", "Nathan Vermeersch"]
+authors = ["Junwei Pan", "Yizhi Mao", "Alfonso Lobos", "Yu Sun", "Aaron Flores"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Paul Grigas", "Alfonso Lobos", "Nathan Vermeersch"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-#publication = ""
-#publication_short = ""
+publication = "Knowledge Data Discovery (KDD), 2019"
+publication_short = "*KDD*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -39,9 +39,9 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1906.03580.pdf"
+url_pdf = "https://arxiv.org/pdf/1907.10235.pdf"
 url_preprint = ""
-url_code = "https://github.com/AlfLobos/Stochastic-In-Face-Frank-Wolfe-v1.0"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
