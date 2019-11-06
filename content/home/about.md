@@ -36,6 +36,6 @@ weight = 5
 +++
 
 # Biography
-I'm starting my fourth year as a PhD student in Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley under the supervision of Professor Paul Grigas. My research interests include Machine Learning, First Order Methods, and lately I have been working in application in Online Advertisement.
+Fifth year PhD student in Industrial Engineering and Operations Research at the University of California, Berkeley. My main interests, which I have pursued in my research at Berkeley and at Yahoo (Verizon), are the application of optimization and machine learning techniques in large scale problems such as optimal bidding strategies in online advertising and sparse neural network training. My advisor is Paul Grigas. 
 
-Areas which I find of great interest is the application of First Order Methods to big data, primal-dual methods, Distributionally Robust Optimization, and WGANs.
+As job/academic goals, I'm currently trying to improve my skills as a future data/research scientist and learning more about how economics, optimization and machine learning can be jointly applied in transportation, e-commerce, online-advertising, and other areas.
