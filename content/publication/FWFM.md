@@ -39,11 +39,11 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = https://arxiv.org/abs/1806.03514"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "https://research.yahoo.com/publications/8940/field-weighted-factorization-machines-click-through-rate-prediction-display"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""

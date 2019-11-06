@@ -19,17 +19,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD student in IEOR (ongoing)"
+  course = "PhD student in Industrial Engineering and Operations Research (IEOR) (ongoing)"
   institution = "University of California, Berkeley"
   year = 2015
 
 [[education.courses]]
-  course = "Msc in IEOR"
+  course = "Msc. in IEOR"
+  institution = "University of California, Berkeley"
+  year = 2016
+
+[[education.courses]]
+  course = "Msc. in IEOR"
   institution = "Pontificia Universidad Catolica de Chile"
   year = 2015
 
 [[education.courses]]
-  course = "Industrial engineering with a major in Mathematics "
+  course = "Bachellor in Industrial Engineering With a Major In Mathematics "
   institution = "Pontificia Universidad Catolica de Chile"
   year = 2012
  
