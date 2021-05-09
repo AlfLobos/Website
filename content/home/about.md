@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-01-20T00:00:00"
+date = "2021-05-00T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -19,9 +19,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD student in Industrial Engineering and Operations Research (IEOR) (ongoing)"
+  course = "PhD student in Industrial Engineering and Operations Research (IEOR) "
   institution = "University of California, Berkeley"
-  year = 2015
+  year = 2021
 
 [[education.courses]]
   course = "Msc. in IEOR"
@@ -41,6 +41,5 @@ weight = 5
 +++
 
 # Biography
-Fifth year PhD student in Industrial Engineering and Operations Research at the University of California, Berkeley. My main interests, which I have pursued in my research at Berkeley and at Yahoo (Verizon), are the application of optimization and machine learning techniques in large scale problems such as optimal bidding strategies in online advertising and sparse neural network training. My advisor is Paul Grigas. 
 
-As job/academic goals, I'm currently trying to improve my skills as a future data/research scientist and learning more about how economics, optimization and machine learning can be jointly applied in transportation, e-commerce, online-advertising, and other areas.
+I'm currently a Data Scientist at Microsoft AI Development Acceleration Program (MAIDAP). I did my PhD in the University of California, Berkeley in Industrial Engineering and Operations Research (IEOR). My current growth interests are how to take machine learning and optimization models from theory to practice in large scale systems in a hollistic manner. As research interests, I have been interested in optimization, in particular first order methods and online optimization, machine learning, and online advertising.  Other areas which I find fascinating are e-commerce, economic problems, and robustness. 
