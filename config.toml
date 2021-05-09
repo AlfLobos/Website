@@ -53,7 +53,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Alfonso Lobos"
-  role = "PhD Candidate, IEOR"
+  role = "Data Scientist at MAIDAP, Microsoft, PhD Graduate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_light.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alobos@berkeley.edu"
-  address = "Etcheverry Bldg. Room 4176, University of California, Berkeley"
+  #address = "Etcheverry Bldg. Room 4176, University of California, Berkeley"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
