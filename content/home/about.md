@@ -41,5 +41,4 @@ weight = 5
 +++
 
 # Biography
-
 I'm currently a Data Scientist at Microsoft AI Development Acceleration Program (MAIDAP). I did my PhD in the University of California, Berkeley in Industrial Engineering and Operations Research (IEOR). My current growth interests are how to take machine learning and optimization models from theory to practice in large scale systems in a hollistic manner. As research interests, I have been interested in optimization, in particular first order methods and online optimization, machine learning, and online advertising.  Other areas which I find fascinating are e-commerce, economic problems, and robustness. 
