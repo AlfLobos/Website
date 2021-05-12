@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3841306"
+url_pdf = "http://ssrn.com/abstract=3841306"
 url_preprint = ""
 url_code = "https://github.com/AlfLobos/DSP"
 url_dataset = ""
